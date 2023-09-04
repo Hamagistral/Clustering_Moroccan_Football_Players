@@ -1,1 +1,5 @@
-# K-Means Clustering
+# ⚽ Clustering Moroccan Football Players with Similar Skillset using K-Means 🇲🇦
+
+## 🎯 About the Project
+
+In this project, the primary objective is to address the challenge of categorizing Moroccan football players based on their skillsets. The project begins by defining the problem statement, which involves clustering players into five distinct categories: goalkeepers, defenders, offensive midfielders, defensive midfielders, and strikers. To accomplish this task, the K-Means clustering algorithm is employed, and the report elaborates on the inner workings of this algorithm. It also provides insights into the FIFA 22 dataset, emphasizing data exploration, analysis, and visualization to gain a comprehensive understanding of the player attributes. The subsequent sections of the project encompass the development of the K-Means clustering algorithm through pseudocode and code implementation, followed by visual representation of the clusters generated. Additionally, the project assesses the performance of the developed algorithm by comparing it to the scikit-learn implementation, thereby offering a comprehensive approach to player clustering based on skillsets.
